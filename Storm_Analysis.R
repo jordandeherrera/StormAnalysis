@@ -1,5 +1,5 @@
 # import data into a data frame
-stormdata <- read.csv("repdata-data-StormData.csv.bz2")
+#stormdata <- read.csv("repdata-data-StormData.csv.bz2")
 
 # take a look at what the data looks like
 head(stormdata)
