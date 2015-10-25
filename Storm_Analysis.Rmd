@@ -237,4 +237,5 @@ multiplot(bar.mean.fatalities, bar.sum.fatalities, bar.mean.injuries,
 *  Extreme heat poses an additional risk, but more in terms of injuries rather than fatalities
 *  In terms of property and crop damage, the most destructive type of weather events are
   +  Droughts for crop damage.  There is a lot variability in terms of the effect that droughts have, but some extreme droughts can cause extreme damage.  There are also a lot of extreme droughts seen in the population.
-  +  Floods
+  +  River floods and ice storms are extremely destructive to crops, but they are also a small population; however, when they do occur, there is not much variability in the destruction they cause (they're always very destructive)
+  +  Storm surges are the most destructive to property, but there is quite a bit of variability in the amount of destruction they cause.  Most of the population, however is still above the amount of destruction caused by almost all other weather events.
